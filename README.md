@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Hirun Heshatha
 
-<!--
-**hirunheshatha/hirunheshatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI × Tech Entrepreneur | 💼 Investor | 🚀 Shaping the Future
 
-Here are some ideas to get you started:
+I explore **AI, emerging technologies, business, and investment opportunities**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m focused on **building innovative businesses, investing in the future, and creating long-term value**.
+
+## 🚀 What I'm Into
+
+- 🤖 **Artificial Intelligence & Emerging Tech**
+- 💡 **Entrepreneurship & Business**
+- 📈 **Investing & Finance**
+- 🔐 **Cybersecurity**
+- 🌐 **Future Technologies**
+
+## 🎯 My Vision
+
+> **Build boldly. Invest wisely. Create lasting value.**
+
+### 🚀 Building the Vision. Shaping the Future.
